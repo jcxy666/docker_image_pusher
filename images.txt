@@ -1,1 +1,1 @@
-provectuslabs/kafka-ui
+bitnami/kafka:3.7.0
