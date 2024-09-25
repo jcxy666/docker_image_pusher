@@ -1,1 +1,1 @@
-node:18.16.1
+sonatype/nexus3:3.72.0
