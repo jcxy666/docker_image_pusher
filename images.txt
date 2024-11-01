@@ -1,1 +1,1 @@
-sonatype/nexus3:3.72.0
+bitnami/kibana:8.11.3-debian-11-r1
