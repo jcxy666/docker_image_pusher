@@ -1,1 +1,1 @@
-bitnami/kibana:8.11.3-debian-11-r1
+nacos/nacos-server:v2.3.0
