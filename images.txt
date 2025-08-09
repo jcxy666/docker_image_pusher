@@ -1,1 +1,1 @@
-alpine:3.20
+--platform=arm64 quay.io/cephcsi/cephcsi:v3.8.0
