@@ -1,2 +1,1 @@
-mysql:8.4.4
-mysql:8.4.5
+registry.k8s.io/ingress-nginx/controller:v1.13.0
