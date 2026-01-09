@@ -1,5 +1,1 @@
-quay.io/jetstack/cert-manager-cainjector:v1.13.6
-quay.io/jetstack/cert-manager-controller:v1.13.6
-quay.io/jetstack/cert-manager-webhook:v1.13.6
-quay.io/jetstack/cert-manager-ctl:v1.13.6
-quay.io/jetstack/cert-manager-acmesolver:v1.13.6
+mysql:9.5.0
