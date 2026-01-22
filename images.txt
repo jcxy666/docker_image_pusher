@@ -1,1 +1,1 @@
-mysql:9.5.0
+registry-1.docker.io/bitnami/redis:7.2.12-photon-5-r5
